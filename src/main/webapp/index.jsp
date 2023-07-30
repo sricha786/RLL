@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2> second  commit </h2>
+<h2> first commit for branch 2  </h2>
 </body>
 </html>
